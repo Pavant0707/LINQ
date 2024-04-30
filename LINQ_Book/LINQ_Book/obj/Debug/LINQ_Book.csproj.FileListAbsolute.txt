@@ -1,0 +1,7 @@
+C:\Users\Prave\source\repos\LINQ_Book\LINQ_Book\bin\Debug\LINQ_Book.exe.config
+C:\Users\Prave\source\repos\LINQ_Book\LINQ_Book\bin\Debug\LINQ_Book.exe
+C:\Users\Prave\source\repos\LINQ_Book\LINQ_Book\bin\Debug\LINQ_Book.pdb
+C:\Users\Prave\source\repos\LINQ_Book\LINQ_Book\obj\Debug\LINQ_Book.csproj.AssemblyReference.cache
+C:\Users\Prave\source\repos\LINQ_Book\LINQ_Book\obj\Debug\LINQ_Book.csproj.CoreCompileInputs.cache
+C:\Users\Prave\source\repos\LINQ_Book\LINQ_Book\obj\Debug\LINQ_Book.exe
+C:\Users\Prave\source\repos\LINQ_Book\LINQ_Book\obj\Debug\LINQ_Book.pdb

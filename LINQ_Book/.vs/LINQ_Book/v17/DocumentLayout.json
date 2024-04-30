@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prave\\source\\repos\\LINQ_Book\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A26340-B641-4AF0-B8B1-A42FDE056A07}|LINQ_Book\\LINQ_Book.csproj|c:\\users\\prave\\source\\repos\\linq_book\\linq_book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A26340-B641-4AF0-B8B1-A42FDE056A07}|LINQ_Book\\LINQ_Book.csproj|solutionrelative:linq_book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\LINQ_Book\\LINQ_Book\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_Book\\Program.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\LINQ_Book\\LINQ_Book\\Program.cs",
+              "RelativeToolTip": "LINQ_Book\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:55:14.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

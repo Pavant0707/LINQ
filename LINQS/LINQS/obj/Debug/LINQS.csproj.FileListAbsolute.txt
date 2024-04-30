@@ -1,0 +1,7 @@
+C:\Users\Prave\source\repos\LINQS\LINQS\bin\Debug\LINQS.exe.config
+C:\Users\Prave\source\repos\LINQS\LINQS\bin\Debug\LINQS.exe
+C:\Users\Prave\source\repos\LINQS\LINQS\bin\Debug\LINQS.pdb
+C:\Users\Prave\source\repos\LINQS\LINQS\obj\Debug\LINQS.csproj.AssemblyReference.cache
+C:\Users\Prave\source\repos\LINQS\LINQS\obj\Debug\LINQS.csproj.CoreCompileInputs.cache
+C:\Users\Prave\source\repos\LINQS\LINQS\obj\Debug\LINQS.exe
+C:\Users\Prave\source\repos\LINQS\LINQS\obj\Debug\LINQS.pdb
